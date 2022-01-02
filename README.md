@@ -1,6 +1,6 @@
 ### Links
 
-My Bug Bounty Writeups: https://github.com/svennergr/writeups
+My Bug Bounty Writeups: https://svennergr.github.io/writeups
 
 <!--
 **svennergr/svennergr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
